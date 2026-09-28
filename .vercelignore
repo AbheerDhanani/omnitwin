@@ -1,0 +1,6 @@
+requirements.txt
+*.py
+data/*.py
+tests/
+.streamlit/
+venv/
