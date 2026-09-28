@@ -63,7 +63,7 @@ Run the full Python application with Folium, Scikit-Learn, and Streamlit:
    ```
 4. Launch the Streamlit dashboard:
    ```bash
-   streamlit run app.py
+   streamlit run streamlit_app.py
    ```
 5. Open your browser at `http://localhost:8501`.
 
